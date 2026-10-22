@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" role="img" aria-label="Abstract dark cinematic landscape">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#263936"/><stop offset=".48" stop-color="#101b1a"/><stop offset="1" stop-color="#070a0a"/></linearGradient>
+    <linearGradient id="ridge" x2="0" y2="1"><stop stop-color="#42534a"/><stop offset="1" stop-color="#0a1110"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#b19a6e" stop-opacity=".25"/><stop offset="1" stop-color="#b19a6e" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#sky)"/>
+  <ellipse cx="980" cy="430" rx="650" ry="420" fill="url(#glow)"/>
+  <path d="M0 690 180 600 340 650 520 485 710 625 880 480 1050 620 1240 455 1430 610 1610 510 1780 620 1920 560V1080H0Z" fill="url(#ridge)" opacity=".7"/>
+  <path d="M0 790 240 720 430 770 650 670 850 770 1080 665 1300 765 1510 685 1730 770 1920 700V1080H0Z" fill="#0b1110"/>
+  <path d="M0 890Q450 825 900 900T1920 865V1080H0Z" fill="#070a0a"/>
+</svg>
